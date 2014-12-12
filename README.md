@@ -1,2 +1,2 @@
-SudokuSolver
-============
+Sudoku
+======
